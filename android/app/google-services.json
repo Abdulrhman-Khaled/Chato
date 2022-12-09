@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265911481490",
+    "project_id": "chato-app-52fcf",
+    "storage_bucket": "chato-app-52fcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265911481490:android:3449268a882b892601224b",
+        "android_client_info": {
+          "package_name": "com.chato.chato_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265911481490-hrhn6p4it2a7flgj6vb7jmi4ptvdo07o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgg5bwBqftrKsmUrMafObT8lVDInXvzmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265911481490-hrhn6p4it2a7flgj6vb7jmi4ptvdo07o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
