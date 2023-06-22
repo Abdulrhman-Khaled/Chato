@@ -66,6 +66,7 @@ class _ProfilePageState extends State<ProfilePage> {
     ImagePicker imagePicker = ImagePicker();
     XFile? pickedFile = await imagePicker
         .pickImage(source: ImageSource.gallery, imageQuality: 25)
+        // ignore: body_might_complete_normally_catch_error
         .catchError((onError) {
       Fluttertoast.showToast(msg: onError.toString());
     });
