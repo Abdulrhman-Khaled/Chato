@@ -14,7 +14,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 - [Installation](#installation)
 - [Screenshots](#Screenshots)
-- [Tools](#Tools)
 - [License](#license)
 
 ## Installation
@@ -68,24 +67,6 @@ flutter run
     <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/4a734bbe-95a9-4400-b618-79742cc9dbf3" width=260 height=500></td>
   </tr>
  </table>
-
-## Tools
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
 ## License
 
