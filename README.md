@@ -32,9 +32,9 @@ What are the steps required to install your project? Provide a step-by-step desc
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/672010e3-bb04-45d2-bc56-9f04d4ef017e" width=270 height=480></td>
-    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/d7b50212-2c2a-4b1c-ab04-dfb08fb4025c" width=270 height=480></td>
-    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/82883bf0-3a01-4f25-8284-35f9cb030e6d" width=270 height=480></td>
+    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/672010e3-bb04-45d2-bc56-9f04d4ef017e" width=270 height=500></td>
+    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/d7b50212-2c2a-4b1c-ab04-dfb08fb4025c" width=270 height=500></td>
+    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/82883bf0-3a01-4f25-8284-35f9cb030e6d" width=270 height=500></td>
   </tr>
  </table>
 
