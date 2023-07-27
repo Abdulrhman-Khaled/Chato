@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a public chat app built using Flutter and Firebase. The app allows users to create an account, log in, and join chat rooms where they can communicate with other users in real-time.
+This is a public chat app built using Flutter, Firebase and Provider. The app allows users to create an account, log in, and join chat rooms where they can communicate with other users in real-time.
 
 The app uses Firebase Cloud Firestore to store and retrieve messages in real-time. It also uses Firebase Authentication to handle user authentication and authorization.
 
