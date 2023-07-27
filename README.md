@@ -38,8 +38,8 @@ What are the steps required to install your project? Provide a step-by-step desc
   </tr>
   <tr>
     <td>Home Screen</td>
-     <td>Edit Profile Screen</td>
      <td>Chat Screen</td>
+     <td>Edit Profile Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/1dea62e6-380b-4b1b-8728-56917da813f3" width=260 height=500></td>
