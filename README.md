@@ -27,14 +27,24 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Splash Screen</td>
+     <td>Sign Up Screen</td>
+     <td>Sign Up with Google Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/672010e3-bb04-45d2-bc56-9f04d4ef017e" width=270 height=500></td>
-    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/d7b50212-2c2a-4b1c-ab04-dfb08fb4025c" width=270 height=500></td>
-    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/82883bf0-3a01-4f25-8284-35f9cb030e6d" width=270 height=500></td>
+    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/672010e3-bb04-45d2-bc56-9f04d4ef017e" width=260 height=500></td>
+    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/d7b50212-2c2a-4b1c-ab04-dfb08fb4025c" width=260 height=500></td>
+    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/82883bf0-3a01-4f25-8284-35f9cb030e6d" width=260 height=500></td>
+  </tr>
+  <tr>
+    <td>Home Screen</td>
+     <td>Edit Profile Screen</td>
+     <td>Chat Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/1dea62e6-380b-4b1b-8728-56917da813f3" width=260 height=500></td>
+    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/13743aa2-4f38-4b40-864c-61e81a7bccc1" width=260 height=500></td>
+    <td><img src="https://github.com/Abdulrhman-Khaled/Chato/assets/58918060/4a734bbe-95a9-4400-b618-79742cc9dbf3" width=260 height=500></td>
   </tr>
  </table>
 
