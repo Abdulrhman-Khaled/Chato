@@ -14,7 +14,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 - [Installation](#installation)
 - [Screenshots](#Screenshots)
-- [Tools & Libraries](#Tools)
+- [Tools](#Tools)
 - [License](#license)
 
 ## Installation
@@ -69,7 +69,7 @@ flutter run
   </tr>
  </table>
 
-## Tools & Libraries
+## Tools
 
 List your collaborators, if any, with links to their GitHub profiles.
 
